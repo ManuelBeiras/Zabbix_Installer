@@ -3,7 +3,7 @@
 Descargar y convertir en ejecutable:
 
 ```bash
-curl -O https://raw.githubusercontent.com/ManuelBeiras/Grafana-Installer/main/instalar_Zabbix.sh
+curl -O https://raw.githubusercontent.com/ManuelBeiras/Zabbix_Installer/main/instalar_Zabbix.sh
 chmod +x instalar_Zabbix.sh
 ```
 Ejecutar:
