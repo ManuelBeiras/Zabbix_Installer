@@ -11,3 +11,4 @@ Ejecutar:
 ```sh
 .instalar_Zabbix.sh
 ```
+ToDo: Instalación con Centos y Postgresql
