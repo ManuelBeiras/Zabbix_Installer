@@ -4,11 +4,11 @@ Descargar y convertir en ejecutable:
 
 ```bash
 curl -O https://raw.githubusercontent.com/ManuelBeiras/Zabbix_Installer/main/instalar_Zabbix.sh
-chmod +x instalar_Zabbix.sh
+chmod +x instalar_zabbix.sh
 ```
 Ejecutar:
 
 ```sh
-.instalar_Zabbix.sh
+.instalar_zabbix.sh
 ```
 ToDo: Instalación con Centos y Postgresql
