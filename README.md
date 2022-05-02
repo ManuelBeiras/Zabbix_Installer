@@ -1,14 +1,14 @@
-# Zabbix_Installer ✅ ![](https://progress-bar.dev/90/?title=Ubuntu) ❌ ![](https://progress-bar.dev/10/?title=Centos)
+# Zabbix_Installer ✅ ![](https://progress-bar.dev/90/?title=Ubuntu) ✅ ![](https://progress-bar.dev/100/?title=MYSQL) ❌ ![](https://progress-bar.dev/10/?title=Centos) ❌ ![](https://progress-bar.dev/10/?title=PostgreSQL)
 
-Descargar y convertir en ejecutable:
+Download and convert to executable:
 
 ```bash
-curl -O https://raw.githubusercontent.com/ManuelBeiras/Zabbix_Installer/main/instalar_Zabbix.sh
-chmod +x instalar_zabbix.sh
+curl -O https://raw.githubusercontent.com/ManuelBeiras/Zabbix_Installer/main/zabbix_installer.sh
+chmod +x zabbix_installer.sh
 ```
-Ejecutar:
+Execute:
 
 ```sh
-.instalar_zabbix.sh
+./zabbix_installer.sh
 ```
-ToDo: Instalación con Centos y Postgresql
+ToDo: Installation with Centos and Postgresql
